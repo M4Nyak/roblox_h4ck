@@ -9,8 +9,7 @@ from queue import Queue
 
 print('seadhye bana internetten bakma fikrini verdigi icin tesekkurler')
 print('emrovskye random attigi icin tesekkur \n')
-print('emrovsky abimin sunucusuna gelin! \n')
-print('tarafindan kodlandi: MRX();#3621, emrovskynin sunucusu cok guzel \n')
+print('tarafindan kodlandi: MRX();#3621, Ben bestim! \n')
 print('begenirseniz sevinirim.')
 
 outputfile = open("cookies.txt", "a")
