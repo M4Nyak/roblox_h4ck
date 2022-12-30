@@ -10,3 +10,10 @@ kullanışı:
 python "dosyakonumu" 
 
 devamını yazcak yazılımım!
+
+
+
+
+
+
+NOT: bu yazılımı kullanmak için bilgisayarınızda python kurulu olması lazım
