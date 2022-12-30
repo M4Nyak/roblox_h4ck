@@ -7,8 +7,7 @@ import random
 import time
 from queue import Queue
 
-print('seadhy abime internete bak dedigi icin cok tessekkur ederim')
-print('Emrowsky abime online durdugu icin tesekkur ederim \n')
+
 print('eger daha cok hacking yazilimi istiyorsan like at \n')
 print('SCRIPT BY: mrx();#3621,\n')
 print('bu yazilimin tum hakki mrx();#3621de')
