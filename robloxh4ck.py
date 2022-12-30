@@ -7,8 +7,6 @@ import random
 import time
 from queue import Queue
 
-print('seadhye bana internetten bakma fikrini verdigi icin tesekkurler')
-print('emrovskye random attigi icin tesekkur \n')
 print('tarafindan kodlandi: MRX();#3621, Ben bestim! \n')
 print('begenirseniz sevinirim.')
 
