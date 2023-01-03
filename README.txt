@@ -13,7 +13,7 @@ devamını yazcak yazılımım!
 
 
 
-
+not: gerekli modülleri yüklemeniz lazım yazılımı kullanmak için
 
 
 NOT: bu yazılımı kullanmak için bilgisayarınızda python kurulu olması lazım
