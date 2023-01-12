@@ -1,6 +1,6 @@
 eğer herhangi bir sorunla karşılaşırsan belirt
 
-program MRX();#3621 tarafından kodlanmıştır tüm hakları saklıdır 
+program MRX();#3621 tarafından kodlanmıştır tüm hakları saklıdır  respect to M4Nyak
 
 
 kullanışı:
