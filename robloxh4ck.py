@@ -30,9 +30,9 @@ while x < c:
 
     x = x + 1
     
-    f = open('Cookies.txt', "a+")
-    f.write(f'{cookies}\n')
-    f.close()
+    c = open('Cookies.txt', "a+")
+    c.write(f'{cookies}\n')
+    c.close()
     
 
 if __name__ == '__main__':
@@ -48,7 +48,7 @@ if __name__ == '__main__':
 outputfile.close()
 
 t1 = time.time()
-print('tarama tamamlandi birsey bulunduysa hits.txtye kaydetcem')
+print('tarama tamamlandi birsey bulunduysa cookies.txtye kaydetcem')
 input("cikmak icin enter bas.")
 
 
